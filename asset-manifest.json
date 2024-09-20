@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dedicatoria-gaby/static/css/main.4136882b.css",
-    "main.js": "/dedicatoria-gaby/static/js/main.2bb1cd4a.js",
+    "main.js": "/dedicatoria-gaby/static/js/main.34b01e8f.js",
     "static/js/453.86d1334e.chunk.js": "/dedicatoria-gaby/static/js/453.86d1334e.chunk.js",
     "static/media/floresRojas.glb": "/dedicatoria-gaby/static/media/floresRojas.d2d2b74c1d0859cd920d.glb",
     "static/media/floresAmarillas.glb": "/dedicatoria-gaby/static/media/floresAmarillas.b3558b5f87dff09f51f9.glb",
@@ -9,11 +9,11 @@
     "static/media/fondo.jpg": "/dedicatoria-gaby/static/media/fondo.d8bcf4f2bf271bcc324f.jpg",
     "index.html": "/dedicatoria-gaby/index.html",
     "main.4136882b.css.map": "/dedicatoria-gaby/static/css/main.4136882b.css.map",
-    "main.2bb1cd4a.js.map": "/dedicatoria-gaby/static/js/main.2bb1cd4a.js.map",
+    "main.34b01e8f.js.map": "/dedicatoria-gaby/static/js/main.34b01e8f.js.map",
     "453.86d1334e.chunk.js.map": "/dedicatoria-gaby/static/js/453.86d1334e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4136882b.css",
-    "static/js/main.2bb1cd4a.js"
+    "static/js/main.34b01e8f.js"
   ]
 }

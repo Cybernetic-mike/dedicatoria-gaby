@@ -9,14 +9,12 @@ import Musica from "./components/Musica";
 function App() {
   return (
     <div>
-      <Router>
-        <Musica />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/flores-amarillas" element={<FloresAmarillas />} />
-          <Route path="/flores-rojas" element={<FloresRojas />} />
-        </Routes>
-      </Router>
+      <Musica />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/flores-amarillas" element={<FloresAmarillas />} />
+        <Route path="/flores-rojas" element={<FloresRojas />} />
+      </Routes>
     </div>
   );
 }

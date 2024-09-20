@@ -5,7 +5,7 @@ function Musica() {
     <div
       style={{
         //display: "block",
-        position: "float",
+        position: "fixed",
         textAlign: "center",
         width: "100vw",
       }}

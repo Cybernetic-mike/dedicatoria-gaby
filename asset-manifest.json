@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/css/main.4136882b.css",
+    "main.js": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/js/main.1d0a5557.js",
+    "static/js/453.86d1334e.chunk.js": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/js/453.86d1334e.chunk.js",
+    "static/media/floresRojas.glb": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/media/floresRojas.d2d2b74c1d0859cd920d.glb",
+    "static/media/floresAmarillas.glb": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/media/floresAmarillas.b3558b5f87dff09f51f9.glb",
+    "static/media/audio.mp3": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/media/audio.350d7a5262343862adf2.mp3",
+    "static/media/fondo.jpg": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/media/fondo.d8bcf4f2bf271bcc324f.jpg",
+    "index.html": "/Cybernetic-mike.github.io/dedicatoria-gaby/index.html",
+    "main.4136882b.css.map": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/css/main.4136882b.css.map",
+    "main.1d0a5557.js.map": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/js/main.1d0a5557.js.map",
+    "453.86d1334e.chunk.js.map": "/Cybernetic-mike.github.io/dedicatoria-gaby/static/js/453.86d1334e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4136882b.css",
+    "static/js/main.1d0a5557.js"
+  ]
+}

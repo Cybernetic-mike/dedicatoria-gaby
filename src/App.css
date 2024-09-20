@@ -91,9 +91,14 @@
     box-shadow: 0 0 10px yellow, 0 0 20px yellow, 0 0 30px yellow; /* Efecto de resplandor amarillo */
   }
   
-  .animate__animated.animate__fadeIn {
-    --animate-duration: 8s;
+  .custom-delay.animate__fadeInDown{
+    animation-delay: 3s;
   }
-  .animate__animated.animate__fadeInDown {
-    --animate-duration: 5s;
+
+  .custom-delay.animate__fadeIn {
+    animation-delay: 7s;
+  }
+  .custom-delay.animate__bounce {
+    animation-delay: 10s;
+    --animate-repeat: 2;
   }

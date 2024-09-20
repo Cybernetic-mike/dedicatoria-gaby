@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import { NavLink } from "react-router-dom";
 import Flores from "./flowers";
 import "animate.css";
@@ -6,7 +6,7 @@ import Fondo from "../images/fondo.jpg";
 import { Button } from "@mui/material";
 import LocalFloristIcon from "@mui/icons-material/LocalFlorist";
 
-function index() {
+function Index() {
   return (
     <div
       style={{
@@ -22,7 +22,7 @@ function index() {
       <div>
         <div>
           <h1
-            className="animate__animated animate__fadeInDown"
+            className="animate__animated custom-delay animate__fadeInDown animate__slower	"
             style={{
               margin: "0",
               fontSize: "5vw",
@@ -55,7 +55,7 @@ function index() {
             &nbsp;
             <span>♥</span>
           </div>
-          <div class="mensaje animate__animated animate__fadeIn">
+          <div class="mensaje animate__animated custom-delay animate__fadeIn">
             <span
               style={{
                 color: "#9738ff",
@@ -72,6 +72,7 @@ function index() {
               to="/flores-amarillas"
               variant="contained"
               sx={{ background: "#9738ff" }}
+              className="animate__animated custom-delay animate__bounce animate__repeat-3"
             >
               <LocalFloristIcon />
               Click
@@ -83,4 +84,4 @@ function index() {
   );
 }
 
-export default index;
+export default Index;

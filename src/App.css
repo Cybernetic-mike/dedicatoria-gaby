@@ -4,8 +4,9 @@
 }
 
 .greetings{
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 900;
+    line-height: 1;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
@@ -101,4 +102,8 @@
   .custom-delay.animate__bounce {
     animation-delay: 10s;
     --animate-repeat: 2;
+  }
+  .dim-fotos{
+    height: 38vh;
+    width: auto;
   }

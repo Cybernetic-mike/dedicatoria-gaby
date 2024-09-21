@@ -1,19 +1,45 @@
 {
   "files": {
-    "main.css": "/dedicatoria-gaby/static/css/main.f3a95e31.css",
-    "main.js": "/dedicatoria-gaby/static/js/main.052e255e.js",
-    "static/js/453.86d1334e.chunk.js": "/dedicatoria-gaby/static/js/453.86d1334e.chunk.js",
+    "main.css": "/dedicatoria-gaby/static/css/main.8647909e.css",
+    "main.js": "/dedicatoria-gaby/static/js/main.6ccadb87.js",
+    "static/js/453.541a3e40.chunk.js": "/dedicatoria-gaby/static/js/453.541a3e40.chunk.js",
     "static/media/floresRojas.glb": "/dedicatoria-gaby/static/media/floresRojas.d2d2b74c1d0859cd920d.glb",
     "static/media/floresAmarillas.glb": "/dedicatoria-gaby/static/media/floresAmarillas.b3558b5f87dff09f51f9.glb",
     "static/media/audio.mp3": "/dedicatoria-gaby/static/media/audio.350d7a5262343862adf2.mp3",
+    "static/media/foto19.jpg": "/dedicatoria-gaby/static/media/foto19.29622e0b0de61d639dbb.jpg",
+    "static/media/foto18.jpg": "/dedicatoria-gaby/static/media/foto18.529c928d617601d89cdf.jpg",
+    "static/media/foto20.jpg": "/dedicatoria-gaby/static/media/foto20.86e73a9a1c98ce237289.jpg",
+    "static/media/foto25.jpg": "/dedicatoria-gaby/static/media/foto25.f5e228d48a6f64eda796.jpg",
+    "static/media/foto26.jpg": "/dedicatoria-gaby/static/media/foto26.600a4e17c6b4b96c8b23.jpg",
+    "static/media/foto11.jpg": "/dedicatoria-gaby/static/media/foto11.691773d0000dd49fe9b3.jpg",
+    "static/media/foto14.jpg": "/dedicatoria-gaby/static/media/foto14.015cd6e1845de33f6056.jpg",
+    "static/media/foto1.jpg": "/dedicatoria-gaby/static/media/foto1.2831d249b5c532426d82.jpg",
+    "static/media/foto4.jpg": "/dedicatoria-gaby/static/media/foto4.e40df86e1050e2be93e3.jpg",
+    "static/media/foto23.jpg": "/dedicatoria-gaby/static/media/foto23.b3ad4f8ccf16734ec1c2.jpg",
+    "static/media/foto10.jpg": "/dedicatoria-gaby/static/media/foto10.7d4e4b2900a93d8cd933.jpg",
+    "static/media/foto16.jpg": "/dedicatoria-gaby/static/media/foto16.53c82f4ee51187327289.jpg",
+    "static/media/foto22.jpg": "/dedicatoria-gaby/static/media/foto22.c8f423220db221a8f777.jpg",
+    "static/media/foto3.jpg": "/dedicatoria-gaby/static/media/foto3.0f9c8aad3b631c00d592.jpg",
+    "static/media/foto21.jpg": "/dedicatoria-gaby/static/media/foto21.a74db861b242bc1523e2.jpg",
+    "static/media/foto7.jpg": "/dedicatoria-gaby/static/media/foto7.9b802e4e1bd55d9fc57d.jpg",
+    "static/media/foto15.jpg": "/dedicatoria-gaby/static/media/foto15.998435be9e4edfdee649.jpg",
+    "static/media/foto24.jpg": "/dedicatoria-gaby/static/media/foto24.d5a8b5b58a4dc5484c07.jpg",
+    "static/media/foto13.jpg": "/dedicatoria-gaby/static/media/foto13.426ae0846443cc554020.jpg",
+    "static/media/foto12.jpg": "/dedicatoria-gaby/static/media/foto12.de51b08b9dbbbc6f2519.jpg",
+    "static/media/foto2.jpg": "/dedicatoria-gaby/static/media/foto2.52ce670dfe0828ea6568.jpg",
+    "static/media/foto9.jpg": "/dedicatoria-gaby/static/media/foto9.b23d45c45c7523787e5f.jpg",
+    "static/media/foto17.jpg": "/dedicatoria-gaby/static/media/foto17.b0d8ba84f5c2993b5485.jpg",
+    "static/media/foto8.jpg": "/dedicatoria-gaby/static/media/foto8.2f5e3329b7eb0fd454a3.jpg",
+    "static/media/foto5.jpg": "/dedicatoria-gaby/static/media/foto5.390b0cdca7a1c7f526df.jpg",
+    "static/media/foto6.jpg": "/dedicatoria-gaby/static/media/foto6.d273cc0cd8abadd4d396.jpg",
     "static/media/fondo.jpg": "/dedicatoria-gaby/static/media/fondo.d8bcf4f2bf271bcc324f.jpg",
     "index.html": "/dedicatoria-gaby/index.html",
-    "main.f3a95e31.css.map": "/dedicatoria-gaby/static/css/main.f3a95e31.css.map",
-    "main.052e255e.js.map": "/dedicatoria-gaby/static/js/main.052e255e.js.map",
-    "453.86d1334e.chunk.js.map": "/dedicatoria-gaby/static/js/453.86d1334e.chunk.js.map"
+    "main.8647909e.css.map": "/dedicatoria-gaby/static/css/main.8647909e.css.map",
+    "main.6ccadb87.js.map": "/dedicatoria-gaby/static/js/main.6ccadb87.js.map",
+    "453.541a3e40.chunk.js.map": "/dedicatoria-gaby/static/js/453.541a3e40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3a95e31.css",
-    "static/js/main.052e255e.js"
+    "static/css/main.8647909e.css",
+    "static/js/main.6ccadb87.js"
   ]
 }
